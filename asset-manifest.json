@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ishaan-dhyani/MindsolAssignmentQ1.git/static/css/main.964fdded.css",
+    "main.js": "/ishaan-dhyani/MindsolAssignmentQ1.git/static/js/main.18c3a4d0.js",
+    "index.html": "/ishaan-dhyani/MindsolAssignmentQ1.git/index.html",
+    "main.964fdded.css.map": "/ishaan-dhyani/MindsolAssignmentQ1.git/static/css/main.964fdded.css.map",
+    "main.18c3a4d0.js.map": "/ishaan-dhyani/MindsolAssignmentQ1.git/static/js/main.18c3a4d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.18c3a4d0.js"
+  ]
+}
